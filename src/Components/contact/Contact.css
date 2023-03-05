@@ -82,7 +82,4 @@ textarea {
     width: var(--container-width-sm);
     gap: 2rem;
   }
-  form {
-    margin-bottom: 10rem;
-  }
 }
